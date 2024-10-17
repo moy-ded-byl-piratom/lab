@@ -1,0 +1,9 @@
+Tue Oct 15 20:50:55 QYZT 2024 [INFO] Info message from thread 1
+Tue Oct 15 20:50:55 QYZT 2024 [ERROR] Error message from thread 3
+Tue Oct 15 20:50:55 QYZT 2024 [WARNING] Warning message from thread 2
+Tue Oct 15 20:51:23 QYZT 2024 [INFO] message 1
+Tue Oct 15 20:51:23 QYZT 2024 [ERROR] message 3
+Tue Oct 15 20:51:23 QYZT 2024 [WARNING] message 2
+Tue Oct 15 20:51:45 QYZT 2024 [INFO] message 1
+Tue Oct 15 20:51:45 QYZT 2024 [ERROR] message 3
+Tue Oct 15 20:51:45 QYZT 2024 [WARNING] message 2
